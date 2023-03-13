@@ -1,0 +1,1 @@
+The uname command displays system information such as kernel name, version, release date, machine hardware name, hardware platform and operating systemWhen you run it without any option, it prints only the kernel name of your system
